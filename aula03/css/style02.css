@@ -1,0 +1,22 @@
+body {
+    background-color: gray;
+    }
+
+.p1 {
+    background-color:darkblue ;
+    color: aquamarine;
+    height: 100px;
+    width: 200px;
+}
+
+.div-ex-width {
+    background-color: blueviolet;
+    color: aliceblue;
+    width: 500px;
+}
+
+.div-ex-max-width {
+    background-color: blueviolet;
+    color: aliceblue;
+    max-width: 500px;
+}

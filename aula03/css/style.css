@@ -1,0 +1,32 @@
+body {
+    background-color: darkgray;
+}
+
+.div1 {
+    background-color: darksalmon;
+    width: 400px;
+    padding-top: 30px;
+    padding-right: auto;
+    padding-bottom: 70px;
+    padding-left: 20px;
+}
+
+.p1 {
+    background-color: brown;
+    width: 200px;
+}
+
+/* ----------------------------------------- */
+
+.div2 {
+    background-color: blueviolet;
+    width: 400px;
+    padding: 30px 70px 20px;
+    box-sizing: border-box;
+
+}
+
+.p2 {
+    background-color: brown;
+    width: 200px;
+}

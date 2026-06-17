@@ -1,0 +1,158 @@
+body {
+    background-color: salmon;
+}
+.dotted, 
+.dashed, 
+.solid, 
+.double, 
+.groove, 
+.ridge, 
+.inset, 
+.outset, 
+.none, 
+.hidden {
+    background-color: antiquewhite;
+    border:  2px solid orangered;
+    padding: 2px;
+}
+
+.dotted {
+    outline-style: dotted ;
+}
+
+.dashed {
+    outline-style: dashed;
+}
+
+.solid {
+    outline-style: solid;
+}
+
+.double {
+    outline-style: double;
+}
+
+.groove {
+    outline-style: groove;
+}
+
+.ridge {
+    outline-style: ridge;
+}
+
+.inset {
+    outline-style: inset;
+}
+
+.outset {
+    outline-style: outset;
+}
+
+.none {
+    outline-style: none;
+}
+
+.hidden {
+    outline-style: hidden;
+}
+
+/* ----------------------------------------------------------- */
+
+.lc1, 
+.lc2, 
+.lc3, 
+.lc4{
+     background-color: antiquewhite;
+    border:  2px solid orangered;
+    padding: 2px;
+}
+
+.lc1 {
+    outline-style: solid;
+    outline-width: thin;
+}
+
+.lc2 {
+      outline-style: solid;
+    outline-width: medium;
+}
+
+.lc3 {
+      outline-style: solid;
+    outline-width: thick;
+}
+
+.lc4 {
+      outline-style: solid;
+    outline-width: 5px;
+}
+
+/* --------------------------------------------- */
+
+.con-cor1, 
+.con-cor2, 
+.con-cor3, 
+.con-cor-inv {
+    background-color: antiquewhite;
+    border:  2px solid orangered;
+    padding: 2px;
+}
+
+.con-cor1 {
+    outline-style: solid;
+    outline-width: 4px;
+    outline-color: aqua;
+}
+
+.con-cor2 {
+    outline-style: solid;
+    outline-width: 4px;
+    outline-color: blue;
+}
+
+.con-cor3 {
+    outline-style: solid;
+    outline-width: 4px;
+    outline-color: blueviolet;
+}
+
+/* .con-cor-inv {
+    outline-style: solid;
+    outline-width: 4px;
+    outline-color: invert;
+} */
+
+/* o valor invert se tornou obsoleto para outline-color */
+
+.out-ex-1, 
+.out-ex-2, 
+.out-ex-3 {
+    background-color: antiquewhite;
+    border:  2px solid orangered;
+    padding: 2px;
+}
+
+.out-ex-1 {
+    outline: 4px dotted ;
+}
+
+.out-ex-2 {
+    outline: 4px dashed ;
+}
+
+.out-ex-3 {
+    outline: 4px outset orange ;
+}
+
+/* ----------------------------------------- */
+
+.out-arredondado {
+    background-color: antiquewhite;
+    border:  2px solid orangered;
+    padding: 2px;
+    outline: 4px solid darkred;
+    border-radius: 15px;
+}
+
+
+
