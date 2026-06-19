@@ -1,0 +1,67 @@
+body {
+    background-color: antiquewhite;
+    font-family: sans-serif;
+}
+
+p {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.p1 {
+    text-align: center;
+}
+
+.p2 {
+    text-align: left;
+}
+
+.p3 {
+    text-align: right;
+}
+
+.p-justificado {
+    text-align: justify;
+}
+
+/* ----------------------------------------------------------------- */
+
+.last-center {
+    text-align-last: center;
+}
+
+.last-right {
+    text-align-last: right;
+}
+
+.last-justify {
+    text-align-last: justify;
+}
+
+/* ----------------------------------------------------------- */
+
+.baseline img {
+    vertical-align: baseline;
+}
+
+.top img {
+    vertical-align: text-top;
+}
+
+.bottom img {
+    vertical-align: text-bottom;
+}
+
+.sub img {
+    vertical-align: sub;
+}
+
+.super img{
+    vertical-align: super;
+}
+
+/* --------------------------------------------------------- */
+
+.p-direction {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
