@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(150, 108, 150);
+    color: white;
+}
+
+.px20 {
+    font-size: 20px;
+}
+
+.px25 {
+    font-size: 25px;
+}
+
+.px30 {
+    font-size: 30px;
+}
+
+/* ----------------------------------------------------------- */
+
+.em1 {
+    font-size: 1em;
+}
+
+.em2 {
+    font-size: 2em;
+}
+
+.em3 {
+    font-size: 3em;
+}
