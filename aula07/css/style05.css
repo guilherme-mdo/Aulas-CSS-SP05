@@ -1,0 +1,39 @@
+body {
+    background-color: burlywood;
+}
+
+.ex1 {
+    color: crimson;
+    background-color: bisque;
+    font-weight: bold;
+}
+
+.ex2 {
+    color: crimson;
+    background-color: bisque;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* -------------------------------------------------------------- */
+
+.ex3:link, .ex3:visited {
+    background-color: bisque;
+    color: crimson;
+    text-decoration: none;
+    padding: 30px 54px;
+    text-align: center;
+    display: inline-block;
+    border: 4px solid black;
+    border-radius: 15px;
+    font-weight: bold;
+
+}
+
+.ex3:hover, .ex3:active {
+    background-color: crimson;
+    color: white;
+    border: 4px solid bisque;
+    transition: .3s;
+
+}

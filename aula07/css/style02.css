@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+body {
+    background-color: antiquewhite;
+}
+
+.p-josefin {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.p-merriweather {
+    font-family: 'Merriweather', serif;
+}
+
+.p-manrope {
+    font-family: 'Manrope', serif;
+}

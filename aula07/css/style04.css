@@ -1,0 +1,26 @@
+body {
+    background-color: lightgray;
+}
+
+.link-gato {
+    color: black;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
+
+.bx-cat-body {
+    font-size: 30px;
+}
+
+.link-gato :hover {
+    color: orange;
+}
+
+.segundo-icone {
+    font-size: 60px;
+}
+
+.segundo-icone:hover {
+    color: blueviolet;
+}
